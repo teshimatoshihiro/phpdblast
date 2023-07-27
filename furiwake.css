@@ -1,0 +1,21 @@
+body {
+  background-color: #fde6e6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  margin: 0;
+  padding: 0;
+  font-size: 24px;
+  font-family: Arial, sans-serif;
+}
+
+a {
+  display: inline-block;
+  margin: 10px;
+  padding: 20px;
+  background-color: #f9cccc;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 5px;
+}
